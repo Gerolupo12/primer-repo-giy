@@ -1,6 +1,6 @@
 ## Se define variable nombre 
-nombre = "Ariel"
+nombre = input("Ingrese su nombre:")
 ## Se define variable apellido
-apellido = "Lopez"
+apellido = input("Ingrese su apellido:")
 ## Se imprime mensaje por consola
 print(f"Hola soy {nombre} {apellido} estudiante de programacion")
